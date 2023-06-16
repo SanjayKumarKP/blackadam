@@ -1,0 +1,19 @@
+Rules 
+following are the rules for all events:-
+This is the .txt file being displayed.
+
+Dance Events
+Solo Dance
+Group dance
+
+Music Events
+Solo Music
+Group Music
+
+Coding Events
+Code Debugging
+Coding Contest
+
+Presentation events
+Paper Presentation
+Project Presentation
